@@ -48,11 +48,11 @@ A comprehensive desktop-based transport management software developed using **Py
 
 ## 🖼️ Screenshots
 
-| Home | Create Trip | Add Bill |
+| Home | Create Trip| Add Bill |
 |------|-------------|----------|
 | ![Home](./screenshots/UI.png) | ![Create Trip](./screenshots/Trip_Sheet.png) | ![Add Bill](./screenshots/Bill.png) |
 
 ---
 
-## 🗂️ Folder Structure
+
 
