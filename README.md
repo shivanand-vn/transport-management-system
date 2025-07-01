@@ -17,7 +17,7 @@ A comprehensive desktop-based transport management software developed using **Py
 
 ## ✨ Key Features
 
-### 🧑‍✈️ Driver Management
+### 👮‍♀️ Driver Management
 - Add, update, and view driver details
 - Store license number and contact information
 
