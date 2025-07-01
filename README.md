@@ -9,8 +9,8 @@ A comprehensive desktop-based transport management software developed using **Py
 - **Project Title:** Transport Management System
 - **Developed For:** Shri Guru Transport, Hubballi
 - **Developer:** Shivanand Viranna Naganur
-- **Platform:** Python 3, Tkinter GUI
-- **Database:** SQLite3
+- **Platform:** Python(tkinter-GUI)
+- **Database:** MYSQL
 - **Academic Year:** 2025
 
 ---
